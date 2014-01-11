@@ -1,0 +1,1 @@
+You can drag jekyll plugins in this folder. Check a plugins website to see how to install it.
