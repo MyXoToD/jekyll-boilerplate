@@ -1,0 +1,19 @@
+/* TEAM */
+Developer: John Doe
+Website: example.tld
+Twitter: @twitter
+Location: Springfield, USA
+
+
+/* THANKS */
+Friend: John Doe
+Website: example.tld
+Twitter: @twitter
+Location: Springfield, USA                  
+
+
+/* SITE */                            
+Last update: 2014/01/10
+Standards: HTML5, CSS3, SCSS, SASS, Javascript, Ruby, Liquid
+Components: jQuery, Jekyll, Compass, SASS
+Software: Sublime Text 2, Google Chrome, Ubuntu, FileZilla, Github, Codepen

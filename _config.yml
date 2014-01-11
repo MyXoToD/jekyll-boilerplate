@@ -1,0 +1,11 @@
+name: New Jekyll Site
+markdown: redcarpet
+redcarpet:
+  extensions: ["strikethrough"]
+pygments: true
+
+relative_permalinks: true
+permalink: :title
+
+paginate: 5
+paginate_path: "page:num"
